@@ -12,6 +12,7 @@ Call with the root directory of your UML2 models.
 
     $ java -jar target/uml-classnames-0.1.0-standalone.jar [modelDirectory]
 or
+
     $ lein run [modelDirectory]
 
 ## License
